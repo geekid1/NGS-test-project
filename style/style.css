@@ -22,6 +22,10 @@
 }
 
 
+.input__box{
+    display: flex;
+    justify-content: center;
+}
 input[type=range]  {
     width: 200px;
     -webkit-appearance: none;
