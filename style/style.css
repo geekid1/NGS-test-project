@@ -68,6 +68,10 @@ input[type=range]  {
     border: 15px;
 
   }
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    position: relative;
+}
 
  .btn{
     color: #0cb6e0;
